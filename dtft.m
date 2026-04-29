@@ -3,7 +3,6 @@ function [samples, dtft_vals, dft32, dft64, dft128] = dtft(C, D)
 % ECE 161 - Machine Problem 2
 % Problem 1: DTFT vs DFT/FFT of a Finite-Length Signal
 %
-% Student Number : 2023-08860
 % Parameters     : C = 0, D = 8
 %
 % Function computes the DTFT approximation and DFTs (N=32,
