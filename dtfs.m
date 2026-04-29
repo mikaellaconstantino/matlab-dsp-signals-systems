@@ -4,7 +4,6 @@ function [x, a_0, c_k, X_k, abs_diff, x_hat, x_inv, ...
 % ECE 161 - Machine Problem 2
 % Problem 2: DTFS vs DFT/FFT of a Periodic Signal
 %
-% Student Number : 2023-08860
 % Parameters     : F = 6, G = 0
 %
 % Function generates a periodic rectangular pulse signal
